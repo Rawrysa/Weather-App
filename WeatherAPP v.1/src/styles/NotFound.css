@@ -1,0 +1,9 @@
+.centerdiv {
+    text-align: center;
+    padding: 10%;
+    padding-top: 15%;
+}
+
+.centerdiv h1 {
+    margin-bottom: 5%;
+}
